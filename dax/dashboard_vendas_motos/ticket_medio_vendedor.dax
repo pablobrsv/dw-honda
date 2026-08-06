@@ -1,5 +1,6 @@
-Ticket médio vendedor = 
-AVERAGEX(
-    'Quantidade de motos vendidas - Valor_venda', 
-    [Faturamento total] / [Motos vendidas]
+Ticket medio vendedor = 
+DIVIDE(
+    [Faturamento total], 
+    [Motos vendidas],
+    0
 )
