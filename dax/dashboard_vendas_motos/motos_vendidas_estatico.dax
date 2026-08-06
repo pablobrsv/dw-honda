@@ -1,0 +1,5 @@
+Motos vendidas estático = 
+CALCULATE(
+    [Motos vendidas],
+    ALL('Quantidade de motos vendidas - Valor_venda')
+)

@@ -1,0 +1,5 @@
+Quantidade de  Promotores = 
+CALCULATE(
+    [Total Respondidos], 
+    NPS[nota_nps] >= 9
+)

@@ -1,0 +1,8 @@
+NPS = 
+VAR vTotal = [Total Respondidos]
+VAR vProm = [Quantidade de  Promotores]
+VAR vDet = [Quantidade de Detratores]
+VAR vPctProm = DIVIDE(vProm, vTotal, 0)
+VAR vPctDet = DIVIDE(vDet, vTotal, 0)
+RETURN
+(vPctProm - vPctDet) * 100

@@ -1,0 +1,5 @@
+Quantidade de Detratores = 
+CALCULATE(
+    [Total Respondidos], 
+    NPS[nota_nps] <= 6
+)

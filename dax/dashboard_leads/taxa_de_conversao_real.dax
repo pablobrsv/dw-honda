@@ -1,0 +1,6 @@
+Taxa de Conversão Real = 
+DIVIDE(
+    SUM('Leads_projeto_honda'[leads convertidos]), 
+    SUM('Leads_projeto_honda'[Quantidade de leads]), 
+    0
+)

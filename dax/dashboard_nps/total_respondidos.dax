@@ -1,0 +1,5 @@
+Total Respondidos = 
+CALCULATE(
+    COUNTROWS(NPS), 
+    NPS[status_resposta] = "Respondido"
+)
