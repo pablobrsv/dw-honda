@@ -7,7 +7,7 @@ Este repositório contém a infraestrutura de dados, os scripts de banco de dado
 
 ### 🎯 Links Rápidos
 
-* **Case Executivo (PDF):** 👉 [Baixar Dossiê Executivo do Case em PDF](./assets/CASE-PROJETO-HONDA-INTELIGENCIA-DE-DADOS-E-ANALISE-COMERCIAL.pdf)
+* **Case Executivo (PDF):** 👉 [Baixar Case Executivo em PDF](./assets/CASE-PROJETO-HONDA-INTELIGENCIA-DE-DADOS-E-ANALISE-COMERCIAL.pdf)
 
 * **Dashboard Interativo:** [🔗 Acesse o painel online no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjFlZWMzYjYtODVmMC00MTBhLTg1ZGYtYmI5Yjk2ZjgxZmU2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&pageName=ad8f0c52c9e1fed9b930)
 
