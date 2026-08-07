@@ -31,5 +31,25 @@ Este repositório contém a infraestrutura de dados, os scripts de banco de dado
 * `/dax`: Códigos de todas as medidas utilizadas no painel, segmentadas por contexto de negócio (Leads, NPS, Vendas).
 * `/assets`: Arquivos binários, incluindo o documento PDF e o arquivo fonte original (`.pbix`).
 
+  ---
 
+## 📊 Casie Executivo
+
+👉 [Baixar Case Completo em PDF](./assets/CASE-PROJETO-HONDA-INTELIGENCIA-DE-DADOS-E-ANALISE-COMERCIAL.pdf)
+
+<div align="center">
+  <img src="assets/1_case_honda.png" width="900"><br><br>
+  <img src="assets/2_case_honda.png" width="900"><br><br>
+  <img src="assets/4_case_honda.png" width="900"><br><br>
+  <img src="assets/6_case_honda.png" width="900"><br><br>
+  <img src="assets/7_case_honda.png" width="900"><br><br>
+  <img src="assets/8_case_honda.png" width="900"><br><br>
+  <img src="assets/10_case_honda.png" width="900"><br><br>
+  <img src="assets/12_case_honda.png" width="900"><br><br>
+  <img src="assets/13_case_honda.png" width="900"><br><br>
+  <img src="assets/14_case_honda.png" width="900"><br><br>
+  <img src="assets/16_case_honda.png" width="900"><br><br>
+  <img src="assets/18_case_honda.png" width="900"><br><br>
+  <img src="assets/20_case_honda.png" width="900">
+</div>
 
