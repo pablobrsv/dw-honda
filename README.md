@@ -1,7 +1,6 @@
 <img width="3780" height="1890" alt="readme_capa_honda_" src="https://github.com/user-attachments/assets/bbf19cc4-741f-4efc-83d0-1093ec287dcc" />
 
-| Inteligência de Dados e Análise Comercial
-
+# Inteligência de Dados e Análise Comercial
 
 Este repositório contém a infraestrutura de dados, os scripts de banco de dados e a documentação técnica do Projeto Honda. 
 
@@ -29,4 +28,5 @@ Este repositório contém a infraestrutura de dados, os scripts de banco de dado
 
 * `/ddl`: Scripts estruturais para recriação do banco de dados relacional.
 * `/dax`: Códigos de todas as medidas utilizadas no painel, segmentadas por contexto de negócio (Leads, NPS, Vendas).
+* `/assets`: Arquivos binários, incluindo o documento PDF e o arquivo fonte original (`.pbix`).egócio (Leads, NPS, Vendas).
 * `/assets`: Arquivos binários, incluindo o documento PDF e o arquivo fonte original (`.pbix`).
