@@ -6,7 +6,8 @@ Este repositório contém a infraestrutura de dados, os scripts de banco de dado
 
 ### 🎯 Links Rápidos
 
-* **Case Executivo (PDF):** [🔗 Clique aqui para acessar a apresentação comercial e visual do projeto](./assets/PROJETO-HONDA-INTELIGENCIA-DE-DADOS-E-ANALISE-COMERCIAL.pdf.pdf)
+* **Case Executivo (PDF):** 👉 [Baixar Dossiê Executivo do Case em PDF](./assets/CASE-PROJETO-HONDA-INTELIGENCIA-DE-DADOS-E-ANALISE-COMERCIAL.pdf)
+
 * **Dashboard Interativo:** [🔗 Acesse o painel online no Power BI](#)
 
 ### 🛠️ Stack Tecnológico
@@ -29,3 +30,6 @@ Este repositório contém a infraestrutura de dados, os scripts de banco de dado
 * `/ddl`: Scripts estruturais para recriação do banco de dados relacional.
 * `/dax`: Códigos de todas as medidas utilizadas no painel, segmentadas por contexto de negócio (Leads, NPS, Vendas).
 * `/assets`: Arquivos binários, incluindo o documento PDF e o arquivo fonte original (`.pbix`).
+
+
+
