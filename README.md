@@ -1,6 +1,7 @@
 <img width="3780" height="1890" alt="readme_capa_honda_" src="https://github.com/user-attachments/assets/bbf19cc4-741f-4efc-83d0-1093ec287dcc" />
 
-# Projeto Honda | Inteligência de Dados e Análise Comercial
+| Inteligência de Dados e Análise Comercial
+
 
 Este repositório contém a infraestrutura de dados, os scripts de banco de dados e a documentação técnica do Projeto Honda. 
 
