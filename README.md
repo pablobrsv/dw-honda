@@ -47,7 +47,6 @@ Este repositório contém a infraestrutura de dados, os scripts de banco de dado
   <img src="assets/13_case_honda.png" width="900"><br><br>
   <img src="assets/14_case_honda.png" width="900"><br><br>
   <img src="assets/16_case_honda.png" width="900"><br><br>
-  <img src="assets/18_case_honda.png" width="900"><br><br>
-  <img src="assets/20_case_honda.png" width="900">
+  <img src="assets/18_case_honda.png" width="900"><br><br>
 </div>
 <a href="https://pablobrsvdata.com.br/"><img src="assets/20_case_honda.png" width="900"></a>
